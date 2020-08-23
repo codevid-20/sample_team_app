@@ -8,5 +8,6 @@ Rails.application.routes.draw do
 
     get "/trees" => "trees#index"
 
+    get "/brians" => "brians#index"
   end
 end
