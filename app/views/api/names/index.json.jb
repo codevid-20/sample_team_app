@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   name1: "Brian",
   name2: "Alan",
   name3: "Sam",
@@ -6,3 +7,15 @@
   name5: "Declan"
   name6: "Pete",
 }
+=======
+  name: "Brian",
+  name: "Sequona",
+  name: "Kristofer",
+  name: "Alan",
+  name: "Sam",
+  name: "Bander",
+  name: "Melanie",
+  name5: "Pete",
+}
+
+>>>>>>> aa779f8e133afb68d9e5ce808016b3319860ca4f
