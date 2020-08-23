@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  name: "Brian",
-  name: "Angela"
-}
-=======
-
-
   name1: "Brian",
   name2: "Ian",
   name3: "Brian",
@@ -28,4 +21,3 @@
   name: "Mark K"
 
 }
->>>>>>> 7f9b8485ba96a7a218d78ff5b2b43aabe59a2b6b
