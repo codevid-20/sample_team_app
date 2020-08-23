@@ -1,4 +1,29 @@
 {
+<<<<<<< HEAD
   name: "Brian",
   name: "Angela"
 }
+=======
+
+  name1: "Brian",
+  name2: "Ian",
+  name3: "Brian",
+  name4: "Alan",
+  name5: "Sam",
+  name6: "Bander",
+  name7: "Kristofer",
+  name8: "Alan",
+  name9: "Sam",
+  name10: "Bander",
+  name11: "Melanie",
+  name12: "Brian",
+  name13: "Sequona",
+  name14: "Kristofer",
+  name15: "Alan",
+  name16: "Sam",
+  name17: "Bander",
+  name18: "Melanie",
+  name19: "Pete",
+
+}
+>>>>>>> 7f9b8485ba96a7a218d78ff5b2b43aabe59a2b6b
