@@ -13,7 +13,11 @@
   name12: "Declan",
   name13: "Melanie",
   name14: "Danimal",
+<<<<<<< HEAD
   name15: "Lisa",
   name16: "Jay",
   name17: "Peter J."
+=======
+  name15: "New Guy"
+>>>>>>> d27eea2952ed6c1ced0b777e9c3cd43996763ff2
 }

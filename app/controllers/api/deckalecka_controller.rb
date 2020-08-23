@@ -1,5 +1,5 @@
 class Api::DeckaleckaController < ApplicationController
-  def index
+  def bowser
     render "index.json.jb"
   end
 end
