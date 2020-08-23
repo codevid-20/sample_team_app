@@ -8,6 +8,8 @@ Rails.application.routes.draw do
     
     get "/guitars" => "guitars#index"
 
+    get "/alans" => "alans#show"
+    get "/sams" => "sams#index"
     get "/brians" => "brians#index"
   end
   
