@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   name: "Danimal",
   name: "Mark H.",
   name: "Brian 'i wont share my age' Rice",
@@ -46,3 +47,20 @@
   name14: "Pete",
   name15: "Declan",
 }
+=======
+  name1: "Mark H.",
+  name2: "Brian",
+  name3: "Sequona",
+  name4: "Kristofer",
+  name5: "Alan",
+  name6: "Sam",
+  name7: "Bander",
+  name8: "Pete",
+  name9: "Angela",
+  name10: "Ian",
+  name11: "Mark K",
+  name12: "Declan",
+  name13: "Melanie",
+  name14: "Danimal"
+}
+>>>>>>> 90d2b7607b0fb8989fdaa1718c4633d6f5feff81
