@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   name: "Danimal",
   name: "Mark H.",
   name: "Brian 'i wont share my age' Rice",
@@ -46,8 +46,6 @@
   name13: "Melanie",
   name14: "Pete",
   name15: "Declan",
-}
-=======
   name1: "Mark H.",
   name2: "Brian",
   name3: "Sequona",
@@ -63,4 +61,10 @@
   name13: "Melanie",
   name14: "Dan"
   name14: "Dan 'THE MAN' "
+  name14: "Danimal"
+  name14: "Danimal",
+  name15: "Lisa",
+  name16: "Jay",
+  name17: "Peter J."
+  name15: "New Guy"
 }
