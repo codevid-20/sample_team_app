@@ -13,6 +13,7 @@ Rails.application.routes.draw do
     get "/alans" => "alans#show"
     get "/sams" => "sams#index"
     get "/brians" => "brians#index"
+    get "/deckalecka" => "deckalecka#bowser"
     get "/banders" => "saleh#index"
   end
   
