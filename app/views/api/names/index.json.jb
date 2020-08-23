@@ -1,4 +1,8 @@
 {
   name: "Brian",
-  name: "Melanie"
+  name: "Melanie",
+  name1: "Brian",
+  name2: "Alan",
+  name3: "Sam",
+  name4: "Bander",
 }
