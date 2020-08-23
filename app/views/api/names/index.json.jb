@@ -1,9 +1,10 @@
 {
   name: "Brian",
+  name: "Kristofer",
+  name: "Alan",
+  name: "Sam",
+  name: "Bander",
   name: "Melanie",
-  name1: "Brian",
-  name2: "Alan",
-  name3: "Sam",
-  name4: "Bander",
   name5: "Pete",
 }
+
