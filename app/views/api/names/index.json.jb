@@ -1,6 +1,6 @@
 {
-  name: "Brian",
-  name: "Alan",
-  name: "Sam",
-  name: "Bander",
+  name1: "Brian",
+  name2: "Alan",
+  name3: "Sam",
+  name4: "Bander",
 }
